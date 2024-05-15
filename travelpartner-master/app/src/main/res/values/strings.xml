@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Travelwithme</string>
+    <string name="openweathermap_api_key">YOUR_API_KEY_HERE</string>
+    <string name="openweathermap_base_url">https://api.openweathermap.org/data/2.5/weather?q=</string>
+</resources>
